@@ -1,0 +1,42 @@
+﻿@{
+    ViewBag.Title = "Upload";
+    WebImage photo = null;
+    var filename = "";
+     var imagePath = "";
+
+  if (IsPost)
+  {
+      photo = WebImage.GetImageFromRequest();
+      if (photo != null)
+      {
+          filename =
+              Path.GetFileName(photo.FileName);
+          imagePath = @"images\" + filename;
+      }
+  }
+
+} 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Upload</title>
+</head>
+<body>
+    @using (Html.BeginForm("Upload", "Home", FormMethod.Post, new {enctype="multipart/form-data"}))
+{
+        <fieldset>
+            <legend> Upload Image </legend>
+            <label for="Upload">Image</label>
+            <input type="file" name="upload" />
+            <input type="submit" value="Upload" />
+        </fieldset>
+    }
+    @if (ViewBag.PicPath != null)
+    {
+        <h1>Uploaded Image</h1>
+        <div class="result">
+            <img src="@Url.Content(ViewBag.PicPath)" alt="image" />
+        </div>
+    }
+</body>
+</html>

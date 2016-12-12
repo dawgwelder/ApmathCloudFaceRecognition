@@ -1,0 +1,138 @@
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\facrec\bin\facrec.dll.config
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\facrec\bin\facrec.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\facrec\bin\facrec.pdb
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\facrec\bin\System.Web.Helpers.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\facrec\bin\System.Web.Mvc.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\facrec\bin\System.Web.Razor.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\facrec\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\facrec\bin\System.Web.Webpages.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\facrec\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\facrec\bin\System.Web.Razor.xml
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\facrec\bin\System.Web.Webpages.xml
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\facrec\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\facrec\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\facrec\bin\System.Web.Helpers.xml
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\facrec\bin\System.Web.Mvc.xml
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\facrec\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\facrec\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\facrec\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\facrec\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\facrec\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\facrec\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\facrec\obj\Debug\facrec.csprojResolveAssemblyReference.cache
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\facrec\obj\Debug\facrec.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\facrec\obj\Debug\facrec.pdb
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\bin\facrec.dll.config
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\bin\facrec.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\bin\facrec.pdb
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\bin\System.Web.Helpers.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\bin\System.Web.Mvc.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\bin\System.Web.Razor.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\bin\System.Web.Webpages.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\bin\System.Web.Razor.xml
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\bin\System.Web.Webpages.xml
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\bin\System.Web.Helpers.xml
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\bin\System.Web.Mvc.xml
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\obj\Debug\facrec.csprojResolveAssemblyReference.cache
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\obj\Debug\facrec.dll
+C:\Users\Dawg Welder\Documents\GitHub\AzureCloudApmathWeb\site\facrec\obj\Debug\facrec.pdb
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\facrec.dll.config
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\facrec.dll
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\facrec.pdb
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\System.Web.Helpers.dll
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\System.Web.Mvc.dll
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\System.Web.Razor.dll
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\System.Web.Webpages.dll
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\System.Web.Razor.xml
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\System.Web.Webpages.xml
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\System.Web.Helpers.xml
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\System.Web.Mvc.xml
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\obj\Debug\facrec.dll
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\obj\Debug\facrec.pdb
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\Emgu.CV.UI.dll
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\ZedGraph.dll
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\Emgu.CV.UI.xml
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\Emgu.CV.UI.GL.dll
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\Emgu.CV.World.dll
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\Emgu.CV.UI.GL.xml
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\bin\Emgu.CV.World.xml
+C:\Users\Dawg Welder\Documents\GitHub\azurecloudapmath\site\facrec\obj\Debug\facrec.csprojResolveAssemblyReference.cache
+C:\Users\alex\Downloads\site\facrec\bin\facrec.dll.config
+C:\Users\alex\Downloads\site\facrec\bin\facrec.dll
+C:\Users\alex\Downloads\site\facrec\bin\facrec.pdb
+C:\Users\alex\Downloads\site\facrec\bin\Emgu.CV.UI.dll
+C:\Users\alex\Downloads\site\facrec\bin\Emgu.CV.UI.GL.dll
+C:\Users\alex\Downloads\site\facrec\bin\Emgu.CV.World.dll
+C:\Users\alex\Downloads\site\facrec\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\alex\Downloads\site\facrec\bin\System.Web.Helpers.dll
+C:\Users\alex\Downloads\site\facrec\bin\System.Web.Mvc.dll
+C:\Users\alex\Downloads\site\facrec\bin\System.Web.Razor.dll
+C:\Users\alex\Downloads\site\facrec\bin\System.Web.Webpages.Deployment.dll
+C:\Users\alex\Downloads\site\facrec\bin\System.Web.Webpages.dll
+C:\Users\alex\Downloads\site\facrec\bin\System.Web.Webpages.Razor.dll
+C:\Users\alex\Downloads\site\facrec\bin\ZedGraph.dll
+C:\Users\alex\Downloads\site\facrec\bin\Emgu.CV.UI.xml
+C:\Users\alex\Downloads\site\facrec\bin\Emgu.CV.UI.GL.xml
+C:\Users\alex\Downloads\site\facrec\bin\Emgu.CV.World.xml
+C:\Users\alex\Downloads\site\facrec\bin\System.Web.Razor.xml
+C:\Users\alex\Downloads\site\facrec\bin\System.Web.Webpages.xml
+C:\Users\alex\Downloads\site\facrec\bin\System.Web.Webpages.Deployment.xml
+C:\Users\alex\Downloads\site\facrec\bin\System.Web.Webpages.Razor.xml
+C:\Users\alex\Downloads\site\facrec\bin\System.Web.Helpers.xml
+C:\Users\alex\Downloads\site\facrec\bin\System.Web.Mvc.xml
+C:\Users\alex\Downloads\site\facrec\bin\ru\System.Web.Razor.resources.dll
+C:\Users\alex\Downloads\site\facrec\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\alex\Downloads\site\facrec\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\alex\Downloads\site\facrec\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\alex\Downloads\site\facrec\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\alex\Downloads\site\facrec\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\alex\Downloads\site\facrec\obj\Debug\facrec.dll
+C:\Users\alex\Downloads\site\facrec\obj\Debug\facrec.pdb
+C:\Users\alex\Downloads\site\facrec\obj\Debug\facrec.csprojResolveAssemblyReference.cache
+C:\Users\Dawg Welder\Desktop\facerec\facrec\bin\facrec.dll.config
+C:\Users\Dawg Welder\Desktop\facerec\facrec\bin\facrec.dll
+C:\Users\Dawg Welder\Desktop\facerec\facrec\bin\facrec.pdb
+C:\Users\Dawg Welder\Desktop\facerec\facrec\bin\System.Web.Helpers.dll
+C:\Users\Dawg Welder\Desktop\facerec\facrec\bin\System.Web.Mvc.dll
+C:\Users\Dawg Welder\Desktop\facerec\facrec\bin\System.Web.Razor.dll
+C:\Users\Dawg Welder\Desktop\facerec\facrec\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Dawg Welder\Desktop\facerec\facrec\bin\System.Web.Webpages.dll
+C:\Users\Dawg Welder\Desktop\facerec\facrec\bin\System.Web.Webpages.Razor.dll
+C:\Users\Dawg Welder\Desktop\facerec\facrec\bin\Emgu.CV.UI.xml
+C:\Users\Dawg Welder\Desktop\facerec\facrec\bin\Emgu.CV.UI.GL.xml
+C:\Users\Dawg Welder\Desktop\facerec\facrec\bin\Emgu.CV.World.xml
+C:\Users\Dawg Welder\Desktop\facerec\facrec\bin\System.Web.Razor.xml
+C:\Users\Dawg Welder\Desktop\facerec\facrec\bin\System.Web.Webpages.xml
+C:\Users\Dawg Welder\Desktop\facerec\facrec\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Dawg Welder\Desktop\facerec\facrec\bin\System.Web.Webpages.Razor.xml
+C:\Users\Dawg Welder\Desktop\facerec\facrec\bin\System.Web.Helpers.xml
+C:\Users\Dawg Welder\Desktop\facerec\facrec\bin\System.Web.Mvc.xml
+C:\Users\Dawg Welder\Desktop\facerec\facrec\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Dawg Welder\Desktop\facerec\facrec\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\Dawg Welder\Desktop\facerec\facrec\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Dawg Welder\Desktop\facerec\facrec\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\Dawg Welder\Desktop\facerec\facrec\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Dawg Welder\Desktop\facerec\facrec\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Dawg Welder\Desktop\facerec\facrec\obj\Debug\facrec.csprojResolveAssemblyReference.cache
+C:\Users\Dawg Welder\Desktop\facerec\facrec\obj\Debug\facrec.dll
+C:\Users\Dawg Welder\Desktop\facerec\facrec\obj\Debug\facrec.pdb
