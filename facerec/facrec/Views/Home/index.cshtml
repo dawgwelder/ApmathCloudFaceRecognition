@@ -1,5 +1,7 @@
 ﻿@{
+   
     ViewBag.Title = "Upload";
+    Layout = "~/Views/Shared/_Layout.cshtml";
     WebImage photo = null;
     var filename = "";
      var imagePath = "";
@@ -19,7 +21,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Image Upload</title>
+    <title>FaceRecognizer</title>
 </head>
 <body>
     @using (Html.BeginForm("Upload", "Home", FormMethod.Post, new {enctype="multipart/form-data"}))
@@ -28,7 +30,7 @@
             <legend> Upload Image </legend>
             <label for="Upload">Image</label>
             <input type="file" name="upload" />
-            <input type="submit" value="Upload" />
+            <input type="submit" value="Upload" class="btn btn-default" />
         </fieldset>
     }
     @if (ViewBag.PicPath != null)

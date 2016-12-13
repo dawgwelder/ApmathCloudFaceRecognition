@@ -11,6 +11,8 @@ namespace facrec
     {
         protected void Application_Start()
         {
+            //BundleConfig.RegisterBundles(BundleTable.Bundles);
+            //AuthConfig.RegisterOpenAuth();
             AreaRegistration.RegisterAllAreas();
             RouteConfig.RegisterRoutes(RouteTable.Routes);
         }

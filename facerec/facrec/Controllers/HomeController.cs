@@ -24,6 +24,14 @@ namespace facrec.Controllers
             return View();
 
         }
+        public ActionResult About()
+        {
+            return View("About");
+        }
+        public ActionResult Contact()
+        {
+            return View("Contact");
+        }
         [HttpPost]
         public ActionResult Upload(HttpPostedFileBase upload)
         {
