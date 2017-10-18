@@ -41,7 +41,7 @@ namespace facrec.Controllers
                 string fileName = System.IO.Path.GetFileName(upload.FileName);
                
                 //upload.SaveAs(Server.MapPath("~/images/" + fileName)); функция загрузки на диск
-                //var bitmap = new Bitmap(Server.MapPath("~/images/" + fileName)); вроде нахер не нужно
+                //var bitmap = new Bitmap(Server.MapPath("~/images/" + fileName)); не нужно
                 var CascadeFacePath = Server.MapPath("../images/haarcascade_frontalface_default.xml"); // загружаем xml - в этом месте ошибка
                 var CascadeEyePath = Server.MapPath("../images/haarcascade_eye.xml"); // загружаем xml - в этом месте ошибка
                 
